@@ -1,0 +1,30 @@
+body{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium';
+    font: 20px;
+}
+.navbar{
+background-color: royalblue;
+
+}
+.quemsomos{
+    background-color: rgb(228, 176, 35);
+    color: blue;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.parceiros{
+    background-color: chocolate;
+    color: blue;
+}
+.serviços{
+    background-color: coral;
+    color: blue;
+}
+.bg-footer{
+    background-color: royalblue;
+    color: white;
+    font: 50px;
+}
